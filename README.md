@@ -33,3 +33,7 @@
  go to app->manifests->click to AndroidManifests.xml
  
      <uses-permission android:name="android.permission.INTERNET" />
+     
+# Registration Newsapi.org
+
+ 1 click to https://newsapi.org/register
