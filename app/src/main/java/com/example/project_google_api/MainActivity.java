@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
 
     private static final String TAG = "MainActivity";
 
-    public  static final String API_key="2ce10eb30f0e4be494723ef0131e7b9e";
+    public  static final String API_key="null"; /// key of you
     private RecyclerView recyclerView;
     private RecyclerView.LayoutManager layoutManager;
     private List<Articles> articles=new ArrayList<>();///
